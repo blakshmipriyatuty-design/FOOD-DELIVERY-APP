@@ -1,17 +1,12 @@
 # FOOD-DELIVERY-APP
-Absolutely. Here is a **clean, grammatically correct README file** for your **FoodNest food delivery app**, using exactly the screens you listed. You can copy this directly into your README.
 
-# FoodNest – Food Delivery App
-
-## 1. Project Overview
+##  Project Overview
 
 **FoodNest** is a modern food delivery application designed to provide users with a simple, convenient, and enjoyable way to discover restaurants, browse food items, place orders, make secure payments, and track their deliveries.
 
 The application is designed in **Figma** with a clean and attractive user interface inspired by modern food delivery platforms. The design focuses on easy navigation, clear information, attractive food visuals, and a smooth ordering experience.
 
----
-
-## 2. Objective
+## Objective
 
 The main objective of the FoodNest application is to create a user-friendly food delivery experience that allows users to:
 
@@ -24,9 +19,7 @@ The main objective of the FoodNest application is to create a user-friendly food
 * Track the delivery partner and order status.
 * Navigate through the application smoothly.
 
----
-
-## 3. Features
+## Features
 
 * User-friendly and attractive interface.
 * Splash screen with FoodNest branding.
@@ -45,27 +38,10 @@ The main objective of the FoodNest application is to create a user-friendly food
 * Order status tracking.
 * Simple and intuitive navigation.
 
----
+## Tools Used
+Figma
 
-## 4. Tools Used
-
-### Design Tool
-
-* **Figma** – Used to design the user interface and create the interactive prototype.
-
-### Design Elements
-
-* iPhone mobile frame
-* Auto Layout
-* Components and Variants
-* Prototype interactions
-* Icons
-* Food and restaurant images
-* Typography and colour systems
-
----
-
-# 5. Screens
+# Screens
 
 ## 1. Splash Screen
 
