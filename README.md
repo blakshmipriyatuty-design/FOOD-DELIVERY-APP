@@ -43,202 +43,22 @@ Figma
 
 # Screens
 
-## 1. Splash Screen
-
-The Splash Screen introduces the FoodNest application with the brand logo, app name, tagline, and an attractive food visual.
-
-**Tagline:**
-*Crave. Click. Enjoy.*
-
----
-
-## 2. Login Screen
-
-The Login Screen allows users to access the application securely.
-
-It includes:
-
-* Mobile number or login option.
-* Google sign-in option.
-* Continue button.
-* Sign-up option for new users.
-
----
-
-## 3. Settings
-
-The Settings screen allows users to manage their account and application preferences.
-
-It can include:
-
-* Profile
-* Saved addresses
-* Payment methods
-* Notifications
-* Help and support
-* Privacy settings
-* Logout
-
----
-
-## 4. Referral Page
-
-The Referral Page encourages users to invite their friends to FoodNest.
-
-**Referral message:**
-**“Refer a Friend & Earn Up to ₹100.”**
-
-Users can share their referral link or code with friends and earn rewards according to the referral offer.
-
----
-
-## 5. Restaurant List
-
-The Restaurant List displays nearby restaurants in an easy-to-browse format.
-
-Each restaurant can display:
-
-* Restaurant image
-* Restaurant name
-* Rating
-* Delivery time
-* Cuisine type
-* Offers
-* Delivery information
-
-Users can select a restaurant to view its menu.
-
----
-
-## 6. Restaurant Cards
-
-Restaurant Cards present individual restaurants using attractive visual layouts.
-
-Each card contains:
-
-* Restaurant image
-* Restaurant name
-* Rating
-* Delivery time
-* Cuisine
-* Price range
-* Discount or special offer
-
-The cards help users quickly compare restaurants and choose what they want to order.
-
----
-
-## 7. View Cart
-
-The View Cart screen displays all selected food items before checkout.
-
-It includes:
-
-* Food item images
-* Food names
-* Quantity controls
-* Item prices
-* Add more items option
-* Delivery address
-* Coupon option
-* Item total
-* Delivery fee
-* Taxes and charges
-* Final total
-* **Proceed to Pay** button
-
----
-
-## 8. Ordering and Payments
-
-The Ordering and Payments screen provides a complete summary of the user's order before payment.
-
-It includes:
-
-* Selected restaurant
-* Ordered food items
-* Delivery address
-* Estimated delivery time
-* Item total
-* Delivery fee
-* Taxes and charges
-* Total amount
-* Selected payment method
-* **Pay Now** option
-
----
-
-## 9. Payment Details
-
-The Payment Details screen allows users to select their preferred payment method.
-
-Available options can include:
-
-* UPI
-* Credit Card
-* Debit Card
-* Net Banking
-* Cash on Delivery
-
-The screen displays the payable amount and provides a **Proceed to Pay** button.
-
----
-
-## 10. Order Confirmation
-
-The Order Confirmation screen informs the user that the order has been successfully placed.
-
-It displays:
-
-* Order confirmation message
-* Order ID
-* Ordered items
-* Total amount
-* Estimated delivery time
-* Delivery address
-* **Track Order** button
-
-Example message:
-
-**“Your order has been confirmed!”**
-
-**“Your food is being prepared and will be delivered soon.”**
-
----
-
-## 11. Track Your Partner
-
-The Track Your Partner screen allows users to follow their food delivery in real time through a map-style interface.
-
-It includes:
-
-* Restaurant location
-* Delivery route
-* Delivery partner's current location
-* Customer's delivery location
-* Estimated delivery time
-* Delivery partner name
-* Partner rating
-* Call and chat options
-* Order status
-
-### Order Status
-
-**✓ Order Confirmed**
-**✓ Food Being Prepared**
-**✓ Picked Up**
-**● On the Way**
-**○ Delivered**
-
-This screen provides users with a clear idea of where their food is and who is delivering it.
-
----
-
-# 6. Design Highlights
-
+ 1. Splash Screen
+ 2. Login Screen
+ 3. Settings
+ 4. Referral Page
+ 5. Restaurant List
+ 6. Restaurant Cards
+ 7. View Cart
+ 8. Ordering and Payments
+ 9. Payment Details
+10. Order Confirmation
+11. Track Your Partner
+
+##  Design Highlights
 The FoodNest application focuses on creating a modern, attractive, and user-friendly food delivery experience.
 
-### 🎨 Colour Palette
+### Colour Palette
 
 * **Vanilla Cream:** `#FFF9F0`
 * **Primary Orange:** `#FF6B35`
@@ -248,76 +68,19 @@ The FoodNest application focuses on creating a modern, attractive, and user-frie
 
 The cream background provides a soft and premium appearance, while orange is used for important actions and highlights.
 
-### 📱 Mobile-First Design
+## Figma Prototype Link
+https://www.figma.com/design/a2mTvVW5XLRJeEPdI2A96D/Food-delivery-App?node-id=0-1&t=fWy2OL77a3J9YpEN-1
 
-The application is designed using an **iPhone 15 Pro frame (393 × 852 px)** to provide a realistic mobile application experience.
+## Project Structure:
+<img width="450" height="500" alt="Food delivery app PS" src="https://github.com/user-attachments/assets/3f5a24e1-d40d-4c61-8fc0-59d9f823850b" />
 
-### 🍔 Visual Food Presentation
+# Developed By
+Student’s Name: Lakshmi Priya.B
+BCA First year
 
-High-quality food and restaurant images are used to make the interface visually appealing and help users identify food items quickly.
+# License
+This project is created for educational purposes only.
+**Department:**BCA(IST Year )
 
-### 🧭 Easy Navigation
-
-The application follows a simple flow:
-
-**Splash → Login → Home → Restaurants → Menu → Cart → Payment → Order Confirmation → Tracking**
-
-### 🛒 Interactive Ordering
-
-Users can:
-
-* Select food items.
-* Increase or decrease quantities.
-* Add items to the cart.
-* Review their order.
-* Proceed to payment.
-
-### 💳 Payment Experience
-
-The payment flow is designed to be simple and clear, with multiple payment options and an easy-to-understand price summary.
-
-### 🛵 Delivery Tracking
-
-The tracking screen uses a map-style layout to show the delivery route and delivery partner, creating a realistic food delivery experience.
-
-### ✨ Consistent UI
-
-Rounded cards, consistent spacing, clear typography, attractive food imagery, and a consistent colour palette are used throughout the application.
-
----
-
-# 7. Prototype Flow
-
-The FoodNest prototype follows this user journey:
-
-**Splash Screen**
-↓
-**Login**
-↓
-**Home**
-↓
-**Restaurant List**
-↓
-**Restaurant Menu**
-↓
-**Food Details**
-↓
-**View Cart**
-↓
-**Ordering & Payment**
-↓
-**Payment Details**
-↓
-**Order Confirmation**
-↓
-**Track Your Partner**
-↓
-**Order Delivered**
-
-
-
-# 8. Conclusion
-
-FoodNest is a modern food delivery application prototype designed to provide a smooth and convenient ordering experience. The application combines attractive visual design with essential food delivery features such as restaurant discovery, menu browsing, cart management, payment, order confirmation, and delivery tracking.
 
 The project demonstrates how **Figma** can be used to design a complete mobile application with a consistent interface, interactive prototype flow, and user-centred design approach.
