@@ -55,6 +55,42 @@ Figma
 10. Order Confirmation
 11. Track Your Partner
 
+## Screenshots
+
+ 1. Splash Screen
+ <img width="150" height="956" alt="Splash Screen" src="https://github.com/user-attachments/assets/46ad30da-9977-449f-9e84-571a9b958161" />
+
+ 2. Login Screen
+ <img width="150" height="956" alt="Login Screen" src="https://github.com/user-attachments/assets/f57d28fd-16e7-45a9-8a44-e306b9a5363a" />
+
+ 3. Settings
+ <img width="150" height="956" alt="Settings" src="https://github.com/user-attachments/assets/0aef01bd-39d2-4793-9143-9618dfbcd45c" />
+
+ 4. Referral Page
+ <img width="150" height="956" alt="Reference page" src="https://github.com/user-attachments/assets/373bfb25-5d09-4261-be4c-da1c417a9723" />
+
+ 5. Restaurant List
+ <img width="150" height="956" alt="Resturtant List" src="https://github.com/user-attachments/assets/7d5e758f-5786-4ba7-bb31-a77389f6021a" />
+
+ 6. Restaurant Menu Cards
+ <img width="150" height="956" alt="Resturtant Menu" src="https://github.com/user-attachments/assets/4c52017a-4e72-4840-8a65-2633afaf7eba" />
+
+ 7. View Cart
+ <img width="150" height="956" alt="View Cart" src="https://github.com/user-attachments/assets/7576a956-637e-404d-a485-cadf29d80616" />
+
+ 8. Ordering and Payments
+ <img width="150" height="956" alt="Ordering   Payment" src="https://github.com/user-attachments/assets/96c8ef17-b7fa-44e2-84db-391a97c5b50c" />
+
+ 9. Payment Details
+<img width="150" height="956" alt="Payment details" src="https://github.com/user-attachments/assets/9bfa5080-b418-4d52-a1ee-4e158c4a1b2a" />
+
+10. Order Confirmation
+<img width="150" height="956" alt="Order Confirmation" src="https://github.com/user-attachments/assets/830b8733-f015-4ed9-b138-5857cc808c6b" />
+
+11. Track Your Partner
+<img width="150" height="200" alt="Track your Order" src="https://github.com/user-attachments/assets/7a5a860f-8c32-40b6-a5b8-1ef08b6b7f94" />
+
+
 ##  Design Highlights
 The FoodNest application focuses on creating a modern, attractive, and user-friendly food delivery experience.
 
