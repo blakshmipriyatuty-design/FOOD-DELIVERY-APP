@@ -88,7 +88,7 @@ Figma
 <img width="150" height="956" alt="Order Confirmation" src="https://github.com/user-attachments/assets/830b8733-f015-4ed9-b138-5857cc808c6b" />
 
 11. Track Your Partner
-<img width="150" height="200" alt="Track your Order" src="https://github.com/user-attachments/assets/7a5a860f-8c32-40b6-a5b8-1ef08b6b7f94" />
+<img width="150" height="300" alt="Track your Order" src="https://github.com/user-attachments/assets/7a5a860f-8c32-40b6-a5b8-1ef08b6b7f94" />
 
 
 ##  Design Highlights
